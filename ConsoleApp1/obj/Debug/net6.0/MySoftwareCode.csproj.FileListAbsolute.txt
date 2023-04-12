@@ -1,0 +1,15 @@
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.csproj.AssemblyReference.cache
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.AssemblyInfoInputs.cache
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.AssemblyInfo.cs
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.csproj.CoreCompileInputs.cache
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MySoftwareCode.exe
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MySoftwareCode.deps.json
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MySoftwareCode.runtimeconfig.json
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MySoftwareCode.dll
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MySoftwareCode.pdb
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.dll
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\MySoftwareCode.dll
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.pdb
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\MySoftwareCode.genruntimeconfig.cache
+C:\Users\jackm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\MySoftwareCode.dll
